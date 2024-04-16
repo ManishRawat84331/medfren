@@ -1,0 +1,6 @@
+Contents of Different Pages :
+
+LoginScreen :  Email , Password 
+SignUpScreen : Email , Password ,Confirm Password 
+RgistrationDoctor :Registration , Name , DOB ,email, Phone
+RgistrationPatent : UserName , Name , DOB ,email, Phone
